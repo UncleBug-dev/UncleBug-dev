@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://sosnovsky-dev.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=32&pause=1000&color=000000&background=ccff00&center=true&vCenter=true&width=600&lines=CODE+%2F%2F+ART;FRONTEND+DEVELOPER;DIGITAL+ARTIST;NEO-BRUTALISM" alt="Typing SVG" />
+  </a>
+</p>
+
 # ⚡ ANTON SOSNOVSKY 
 
 ### Мультидисциплинарный разработчик & Цифровой художник
