@@ -23,7 +23,6 @@
 <br/>
 
 ## 📊 Статистика
-<!-- Карточки стилизованы под нео-брутализм твоего сайта (цвета: #F4F4F0, #000000, #ff4d00) -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=UncleBug-dev&show_icons=true&theme=custom&bg_color=F4F4F0&title_color=000000&text_color=000000&icon_color=ff4d00&border_color=000000&border_radius=0&hide_border=false" alt="GitHub Stats" height="192px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UncleBug-dev&layout=compact&theme=custom&bg_color=F4F4F0&title_color=000000&text_color=000000&border_color=000000&border_radius=0&hide_border=false" alt="Top Langs" height="192px"/>
@@ -43,9 +42,3 @@
     <img src="https://img.shields.io/badge/VK-000000?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
   </a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UncleBug-dev/UncleBug-dev/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UncleBug-dev/UncleBug-dev/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/UncleBug-dev/UncleBug-dev/output/github-snake.svg">
-</picture>
